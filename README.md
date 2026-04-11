@@ -15,6 +15,8 @@
  
 ### **AI Vision Pipeline**
 * **YOLOv8 & EfficientNet**: 객체 탐지(ROI 추출) 후 이미지 임베딩 기술을 적용, 고차원 벡터 유사도 분석으로 150종 이상의 음식을 정밀 분류.
+* <img width="1070" height="331" alt="image" src="https://github.com/user-attachments/assets/11af5ec6-89f2-4d6e-b335-451d2ffe1694" />
+
  
 ### **Backend & Data Engineering**
 * **언어 및 분석**: Python, Pandas, Matplotlib, Seaborn
