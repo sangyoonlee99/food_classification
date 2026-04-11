@@ -1,0 +1,51 @@
+{
+  "user_id": "e865f40a5ffc4f5aa58a2e4429e2fb38",
+  "date": "2025-12-24",
+  "meals": [
+    {
+      "meal_id": "234FDA26428E457ABF135CFA8CA2F831",
+      "user_id": "e865f40a5ffc4f5aa58a2e4429e2fb38",
+      "image": null,
+      "created_at": "2025-12-24T14:41:45.146041",
+      "primary_food": {
+        "food_name": "닭가슴살"
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 600.0,
+          "carbs_g": 75.0,
+          "protein_g": 45.0,
+          "fat_g": 18.0
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "manual",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    }
+  ],
+  "daily_nutrition": {
+    "total": {
+      "kcal": 600.0,
+      "carbs_g": 75.0,
+      "protein_g": 45.0,
+      "fat_g": 18.0
+    },
+    "items_count": 0
+  },
+  "daily_score": 90,
+  "daily_grade": "우수",
+  "feedback": null
+}

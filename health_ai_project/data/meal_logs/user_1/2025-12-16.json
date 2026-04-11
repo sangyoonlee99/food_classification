@@ -1,0 +1,320 @@
+{
+  "user_id": 1,
+  "date": "2025-12-16",
+  "meals": [
+    {
+      "meal_id": "005bb6a7-5e5c-4bae-986a-35ad3f6cf575",
+      "user_id": 1,
+      "image": "data\\test_images\\A_13_A13002_개불_05_01.jpg",
+      "created_at": "2025-12-16T08:32:55.404411",
+      "primary_food": null,
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 0.0,
+          "carbs_g": 0.0,
+          "protein_g": 0.0,
+          "fat_g": 0.0
+        },
+        "items_count": 0
+      },
+      "meal_evaluation": {
+        "meal_score": 55,
+        "grade": "주의",
+        "flags": {
+          "low_protein": true,
+          "high_carbs": false,
+          "low_fat": true,
+          "low_calorie": true,
+          "high_calorie": false
+        },
+        "advice": [
+          "단백질이 부족합니다. 달걀, 두부, 생선 등을 추가해 보세요.",
+          "지방이 너무 낮습니다. 견과류나 올리브유를 소량 추가해 보세요.",
+          "전체 열량이 낮습니다. 식사량 보완이 필요합니다."
+        ]
+      },
+      "context": {
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "d10e536e-5fb4-4c83-a2da-b4fb97e22b23",
+      "user_id": 1,
+      "image": "data\\test_images\\A_13_A13002_개불_05_01.jpg",
+      "created_at": "2025-12-16T08:34:16.857989",
+      "primary_food": null,
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 0.0,
+          "carbs_g": 0.0,
+          "protein_g": 0.0,
+          "fat_g": 0.0
+        },
+        "items_count": 0
+      },
+      "meal_evaluation": {
+        "meal_score": 55,
+        "grade": "주의",
+        "flags": {
+          "low_protein": true,
+          "high_carbs": false,
+          "low_fat": true,
+          "low_calorie": true,
+          "high_calorie": false
+        },
+        "advice": [
+          "단백질이 부족합니다. 달걀, 두부, 생선 등을 추가해 보세요.",
+          "지방이 너무 낮습니다. 견과류나 올리브유를 소량 추가해 보세요.",
+          "전체 열량이 낮습니다. 식사량 보완이 필요합니다."
+        ]
+      },
+      "context": {
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "c487fc4e-dae7-48b4-a3e1-5b884023a836",
+      "user_id": 1,
+      "image": "data\\test_images\\A_13_A13002_개불_05_01.jpg",
+      "created_at": "2025-12-16T08:34:54.092025",
+      "primary_food": null,
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 0.0,
+          "carbs_g": 0.0,
+          "protein_g": 0.0,
+          "fat_g": 0.0
+        },
+        "items_count": 0
+      },
+      "meal_evaluation": {
+        "meal_score": 55,
+        "grade": "주의",
+        "flags": {
+          "low_protein": true,
+          "high_carbs": false,
+          "low_fat": true,
+          "low_calorie": true,
+          "high_calorie": false
+        },
+        "advice": [
+          "단백질이 부족합니다. 달걀, 두부, 생선 등을 추가해 보세요.",
+          "지방이 너무 낮습니다. 견과류나 올리브유를 소량 추가해 보세요.",
+          "전체 열량이 낮습니다. 식사량 보완이 필요합니다."
+        ]
+      },
+      "context": {
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "48522899-e40b-48b5-933c-01b479553c40",
+      "user_id": 1,
+      "image": "data\\test_images\\A_13_A13002_개불_05_01.jpg",
+      "created_at": "2025-12-16T08:35:40.856874",
+      "primary_food": {
+        "food_name": "개불",
+        "confidence": 0.5,
+        "nutrition": {
+          "kcal": 42.4,
+          "carbs_g": 1.28,
+          "protein_g": 8.4,
+          "fat_g": 0.16
+        },
+        "source": "filename",
+        "primary_score": 21.7
+      },
+      "foods": [
+        {
+          "food_name": "개불",
+          "confidence": 0.5,
+          "nutrition": {
+            "kcal": 42.4,
+            "carbs_g": 1.28,
+            "protein_g": 8.4,
+            "fat_g": 0.16
+          },
+          "source": "filename"
+        }
+      ],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 42.4,
+          "carbs_g": 1.3,
+          "protein_g": 8.4,
+          "fat_g": 0.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 55,
+        "grade": "주의",
+        "flags": {
+          "low_protein": true,
+          "high_carbs": false,
+          "low_fat": true,
+          "low_calorie": true,
+          "high_calorie": false
+        },
+        "advice": [
+          "단백질이 부족합니다. 달걀, 두부, 생선 등을 추가해 보세요.",
+          "지방이 너무 낮습니다. 견과류나 올리브유를 소량 추가해 보세요.",
+          "전체 열량이 낮습니다. 식사량 보완이 필요합니다."
+        ]
+      },
+      "context": {
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "23be423f-f81c-451f-a3c0-a82aef637915",
+      "user_id": 1,
+      "image": "data\\test_images\\A_13_A13002_개불_05_01.jpg",
+      "created_at": "2025-12-16T08:45:21.668474",
+      "primary_food": {
+        "food_name": "개불",
+        "confidence": 0.5,
+        "nutrition": {
+          "kcal": 42.4,
+          "carbs_g": 1.28,
+          "protein_g": 8.4,
+          "fat_g": 0.16
+        },
+        "source": "filename",
+        "primary_score": 21.7
+      },
+      "foods": [
+        {
+          "food_name": "개불",
+          "confidence": 0.5,
+          "nutrition": {
+            "kcal": 42.4,
+            "carbs_g": 1.28,
+            "protein_g": 8.4,
+            "fat_g": 0.16
+          },
+          "source": "filename"
+        }
+      ],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 42.4,
+          "carbs_g": 1.3,
+          "protein_g": 8.4,
+          "fat_g": 0.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 55,
+        "grade": "주의",
+        "flags": {
+          "low_protein": true,
+          "high_carbs": false,
+          "low_fat": true,
+          "low_calorie": true,
+          "high_calorie": false
+        },
+        "advice": [
+          "단백질이 부족합니다. 달걀, 두부, 생선 등을 추가해 보세요.",
+          "지방이 너무 낮습니다. 견과류나 올리브유를 소량 추가해 보세요.",
+          "전체 열량이 낮습니다. 식사량 보완이 필요합니다."
+        ]
+      },
+      "context": {
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "be218846-3373-480f-be93-96845d77350a",
+      "user_id": 1,
+      "image": "data\\test_images\\A_13_A13002_개불_05_01.jpg",
+      "created_at": "2025-12-16T08:47:49.016678",
+      "primary_food": {
+        "food_name": "개불",
+        "confidence": 0.5,
+        "nutrition": {
+          "kcal": 42.4,
+          "carbs_g": 1.28,
+          "protein_g": 8.4,
+          "fat_g": 0.16
+        },
+        "source": "filename",
+        "primary_score": 21.7
+      },
+      "foods": [
+        {
+          "food_name": "개불",
+          "confidence": 0.5,
+          "nutrition": {
+            "kcal": 42.4,
+            "carbs_g": 1.28,
+            "protein_g": 8.4,
+            "fat_g": 0.16
+          },
+          "source": "filename"
+        }
+      ],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 42.4,
+          "carbs_g": 1.3,
+          "protein_g": 8.4,
+          "fat_g": 0.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 55,
+        "grade": "주의",
+        "flags": {
+          "low_protein": true,
+          "high_carbs": false,
+          "low_fat": true,
+          "low_calorie": true,
+          "high_calorie": false
+        },
+        "advice": [
+          "단백질이 부족합니다. 달걀, 두부, 생선 등을 추가해 보세요.",
+          "지방이 너무 낮습니다. 견과류나 올리브유를 소량 추가해 보세요.",
+          "전체 열량이 낮습니다. 식사량 보완이 필요합니다."
+        ]
+      },
+      "context": {
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    }
+  ],
+  "daily_nutrition": {
+    "total": {
+      "kcal": 127.2,
+      "carbs_g": 3.9,
+      "protein_g": 25.2,
+      "fat_g": 0.6
+    },
+    "items_count": 3
+  },
+  "daily_score": 55,
+  "daily_grade": "주의"
+}

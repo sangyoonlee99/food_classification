@@ -1,0 +1,188 @@
+{
+  "user_id": "53694308e7b24b44bb8923a74eee2070",
+  "date": "2025-12-29",
+  "meals": [
+    {
+      "meal_id": "A46BFC0B33974B9785222924089E57F4",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-29T14:07:07.283504",
+      "primary_food": {
+        "food_name": "오트밀",
+        "amount_g": 70.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 262.5,
+          "carbs_g": 47.2,
+          "protein_g": 8.8,
+          "fat_g": 5.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "breakfast",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "D6B71D46A9E54F90AB03A53ABE881379",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-29T14:07:13.149902",
+      "primary_food": {
+        "food_name": "우유",
+        "amount_g": 70.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 140.0,
+          "carbs_g": 17.5,
+          "protein_g": 10.5,
+          "fat_g": 4.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "breakfast",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "9631048059E54EE2919B0974FE7B6627",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-29T14:07:30.347010",
+      "primary_food": {
+        "food_name": "나폴리피자",
+        "amount_g": 200.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 400.6,
+          "carbs_g": 62.2,
+          "protein_g": 14.5,
+          "fat_g": 8.4
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "lunch",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "373E9D69AC9D45209086DE4640298536",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-29T14:07:45.081564",
+      "primary_food": {
+        "food_name": "귀리밥",
+        "amount_g": 150.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 217.5,
+          "carbs_g": 45.0,
+          "protein_g": 5.3,
+          "fat_g": 2.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "dinner",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "C71A8DA8B50D4249A1D02ABEFF3EDBD7",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-29T14:07:49.120721",
+      "primary_food": {
+        "food_name": "닭가슴살",
+        "amount_g": 150.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 197.4,
+          "carbs_g": 21.6,
+          "protein_g": 25.6,
+          "fat_g": 2.0
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "dinner",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    }
+  ],
+  "daily_nutrition": {
+    "total": {
+      "kcal": 1218.0,
+      "carbs_g": 193.5,
+      "protein_g": 64.7,
+      "fat_g": 22.0
+    },
+    "items_count": 0
+  },
+  "daily_score": 90,
+  "daily_grade": "우수",
+  "feedback": null
+}

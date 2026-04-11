@@ -1,0 +1,256 @@
+{
+  "user_id": "53694308e7b24b44bb8923a74eee2070",
+  "date": "2025-12-26",
+  "meals": [
+    {
+      "meal_id": "BEC09714813F45B3B42924213E166D53",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-26T13:56:44.693678",
+      "primary_food": {
+        "food_name": "퀴노아밥",
+        "amount_g": 150.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 217.5,
+          "carbs_g": 45.0,
+          "protein_g": 5.3,
+          "fat_g": 2.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "breakfast",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "CA03AF6BB6F6454DA04B911B61BAAAB3",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-26T13:56:50.217244",
+      "primary_food": {
+        "food_name": "닭안심",
+        "amount_g": 150.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 165.0,
+          "carbs_g": 0.0,
+          "protein_g": 34.5,
+          "fat_g": 2.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "breakfast",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "4D9D6BF936D041CCBD6802ED9F03F070",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-26T13:56:57.713142",
+      "primary_food": {
+        "food_name": "아몬드",
+        "amount_g": 20.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 120.0,
+          "carbs_g": 4.0,
+          "protein_g": 4.0,
+          "fat_g": 10.7
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "breakfast",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "06A92A1BA32B41C7AFB0389093E49AA4",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-26T13:57:08.735578",
+      "primary_food": {
+        "food_name": "현미밥",
+        "amount_g": 150.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 217.5,
+          "carbs_g": 45.0,
+          "protein_g": 5.3,
+          "fat_g": 2.2
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "lunch",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "332F5E108BAF46E6A2B1652B4E9CF4E1",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-26T13:57:14.843266",
+      "primary_food": {
+        "food_name": "닭가슴살",
+        "amount_g": 100.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 131.6,
+          "carbs_g": 14.4,
+          "protein_g": 17.1,
+          "fat_g": 1.4
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "lunch",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "8D6D032D272744D6B2D63E0BB8ACBB5B",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-26T13:57:23.502772",
+      "primary_food": {
+        "food_name": "뚝배기불고기",
+        "amount_g": 100.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 200.0,
+          "carbs_g": 25.0,
+          "protein_g": 15.0,
+          "fat_g": 6.0
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "dinner",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    },
+    {
+      "meal_id": "0CD393AB9E8D47738CCCC09980B05D05",
+      "user_id": "53694308e7b24b44bb8923a74eee2070",
+      "image": null,
+      "created_at": "2025-12-26T13:57:37.611070",
+      "primary_food": {
+        "food_name": "아보카도",
+        "amount_g": 20.0
+      },
+      "foods": [],
+      "nutrition_summary": {
+        "total": {
+          "kcal": 32.0,
+          "carbs_g": 1.6,
+          "protein_g": 0.4,
+          "fat_g": 2.8
+        },
+        "items_count": 1
+      },
+      "meal_evaluation": {
+        "meal_score": 0,
+        "grade": "미평가",
+        "flags": {},
+        "advice": []
+      },
+      "context": {
+        "meal_type": "manual",
+        "source": "snack",
+        "elderly": false,
+        "diabetes": false,
+        "diet": null,
+        "fitness": null
+      }
+    }
+  ],
+  "daily_nutrition": {
+    "total": {
+      "kcal": 1083.6,
+      "carbs_g": 135.0,
+      "protein_g": 81.6,
+      "fat_g": 27.5
+    },
+    "items_count": 0
+  },
+  "daily_score": 90,
+  "daily_grade": "우수",
+  "feedback": null
+}

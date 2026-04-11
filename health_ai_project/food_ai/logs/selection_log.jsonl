@@ -1,0 +1,3 @@
+
+{"ts":"2025-01-02T14:03:21","image_id":"img_001.jpg","bbox":[103,236,193,349],"selected_class":"사과","similarity":0.7083,"mode":"AUTO_ACCEPT"}
+{"ts":"2025-01-02T14:05:10","image_id":"img_002.jpg","bbox":[201,120,410,360],"selected_class":"치킨커리","similarity":0.6511,"mode":"USER_SELECT"}

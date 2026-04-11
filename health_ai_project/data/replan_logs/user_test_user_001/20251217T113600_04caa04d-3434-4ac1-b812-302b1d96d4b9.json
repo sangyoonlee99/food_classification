@@ -1,0 +1,173 @@
+{
+  "replan_id": "04caa04d-3434-4ac1-b812-302b1d96d4b9",
+  "saved_at": "2025-12-17T11:36:00.591153",
+  "user_id": "test_user_001",
+  "result": {
+    "meta": {
+      "generated_at": "2025-12-17T11:36:00.591153",
+      "event_date": "2025-12-17",
+      "event_type": "overeat",
+      "intensity": "mid"
+    },
+    "horizon": {
+      "strategy": "B+partialC",
+      "horizon_days": 2,
+      "show_user_view": false,
+      "days": [
+        {
+          "date": "2025-12-18",
+          "diet": {
+            "same_day": {},
+            "next_day": {
+              "carb_ratio": -0.12,
+              "protein_ratio": 0.06,
+              "kcal_delta": -126.2
+            }
+          },
+          "exercise": {
+            "same_day": {},
+            "next_day": {
+              "cardio_min": 8,
+              "strength_min": 3,
+              "intensity": "up"
+            }
+          }
+        },
+        {
+          "date": "2025-12-19",
+          "diet": {
+            "same_day": {},
+            "next_day": {
+              "carb_ratio": -0.12,
+              "protein_ratio": 0.06,
+              "kcal_delta": -68.8
+            }
+          },
+          "exercise": {
+            "same_day": {},
+            "next_day": {
+              "cardio_min": 4,
+              "strength_min": 2,
+              "intensity": "up"
+            }
+          }
+        },
+        {
+          "date": "2025-12-20",
+          "diet": {
+            "same_day": {},
+            "next_day": {
+              "carb_ratio": -0.12,
+              "protein_ratio": 0.06,
+              "kcal_delta": -16.2
+            }
+          },
+          "exercise": {
+            "same_day": {},
+            "next_day": {
+              "cardio_min": 1,
+              "strength_min": 0,
+              "intensity": "up"
+            }
+          }
+        },
+        {
+          "date": "2025-12-21",
+          "diet": {
+            "same_day": {},
+            "next_day": {
+              "carb_ratio": -0.12,
+              "protein_ratio": 0.06,
+              "kcal_delta": -16.2
+            }
+          },
+          "exercise": {
+            "same_day": {},
+            "next_day": {
+              "cardio_min": 1,
+              "strength_min": 0,
+              "intensity": "up"
+            }
+          }
+        },
+        {
+          "date": "2025-12-22",
+          "diet": {
+            "same_day": {},
+            "next_day": {
+              "carb_ratio": -0.12,
+              "protein_ratio": 0.06,
+              "kcal_delta": -16.2
+            }
+          },
+          "exercise": {
+            "same_day": {},
+            "next_day": {
+              "cardio_min": 1,
+              "strength_min": 0,
+              "intensity": "up"
+            }
+          }
+        },
+        {
+          "date": "2025-12-23",
+          "diet": {
+            "same_day": {},
+            "next_day": {
+              "carb_ratio": -0.12,
+              "protein_ratio": 0.06,
+              "kcal_delta": -16.2
+            }
+          },
+          "exercise": {
+            "same_day": {},
+            "next_day": {
+              "cardio_min": 1,
+              "strength_min": 0,
+              "intensity": "up"
+            }
+          }
+        }
+      ],
+      "notes": [
+        "기록이 없어 추정 Δkcal=+400 사용",
+        "Horizon=2일(다음날 비중 최대)",
+        "분배: 식단 65% / 운동 35%",
+        "상세 숨김(요약만)"
+      ],
+      "actions": {
+        "meal": {
+          "adjust_grams": {
+            "kcal": -100,
+            "macro": "rebalance"
+          },
+          "change_menu": true
+        },
+        "exercise": {
+          "adjust_minutes": {
+            "cardio": 20
+          },
+          "change_routine": true,
+          "intensity": "up"
+        }
+      }
+    },
+    "actions": {
+      "meal": {
+        "adjust_grams": {
+          "kcal": -100,
+          "macro": "rebalance"
+        },
+        "change_menu": true
+      },
+      "exercise": {
+        "adjust_minutes": {
+          "cardio": 20
+        },
+        "change_routine": true,
+        "intensity": "up"
+      }
+    },
+    "next_day_plan": null
+  }
+}

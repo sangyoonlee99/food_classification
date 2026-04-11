@@ -1,0 +1,22 @@
+selection_log.jsonl 설명
+"""
+ts	선택 확정 시각
+image_id	원본 이미지 ID
+bbox	해당 음식 bbox
+selected_class	확정된 음식 (정답)
+similarity	선택 당시 similarity
+mode	AUTO_ACCEPT / USER_SELECT
+"""
+
+selection_log.meta.json 설명
+'''
+운영 상태 요약
+매번 파일 줄 세지 않아도 됨
+서비스 상태 모니터링용
+'''
+
+update_history.jsonl
+'''
+프로토타입 업데이트 이력 기록
+롤백 / 감사 / 실험 비교용
+'''
