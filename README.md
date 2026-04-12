@@ -81,3 +81,9 @@ Data Layer     : 데이터 모델링 및 SQL 쿼리 관리 (sql/)
 - 11개 테이블 ERD 모델링 및 DB 스키마 설계
 - Hard Case 재학습 루프 설계로 객체 누락 11% 감소
 
+
+## 데이터셋
+
+- AI HUB - 건강관리를 위한 음식 이미지
+- Roboflow Universe
+- 다중 음식 환경 직접 수집 및 라벨링 툴 활용한 Bbox 라벨링
